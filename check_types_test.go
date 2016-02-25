@@ -3,7 +3,7 @@ package hil
 import (
 	"testing"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/paulspringett/hil/ast"
 )
 
 func TestTypeCheck(t *testing.T) {

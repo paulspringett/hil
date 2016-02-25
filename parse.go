@@ -3,7 +3,7 @@ package hil
 import (
 	"sync"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/paulspringett/hil/ast"
 )
 
 var parserLock sync.Mutex

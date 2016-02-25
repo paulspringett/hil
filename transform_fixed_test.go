@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/hashicorp/hil/ast"
+	"github.com/paulspringett/hil/ast"
 )
 
 func TestFixedValueTransform(t *testing.T) {
